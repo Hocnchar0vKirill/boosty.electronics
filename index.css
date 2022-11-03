@@ -1,0 +1,49 @@
+.headerBlock {
+    position: absolute;
+width: 1500px;
+height: 82px;
+left: 0px;
+top: 0px;
+
+background: #000000;
+}
+
+.company-logo {
+
+position: absolute;
+width: 48px;
+height: 48px;
+left: 74px;
+top: 16px;
+}
+.search {
+    position: absolute;
+width: 600px;
+height: 46px;
+left: 565px;
+top: 12px;
+}
+.Boosty.electronics {
+    position: absolute;
+width: 337px;
+height: 33px;
+left: 147px;
+top: 16px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 39px;
+
+color: #FFFFFF;
+}
+.profile {
+    position: absolute;
+width: 60px;
+height: 53px;
+left: 1378px;
+top: 9px;
+
+background: #000000;
+}
