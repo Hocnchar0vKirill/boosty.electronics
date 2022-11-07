@@ -39,11 +39,27 @@ line-height: 39px;
 color: #FFFFFF;
 }
 .profile {
-    position: absolute;
+position: absolute;
 width: 60px;
 height: 53px;
 left: 1378px;
 top: 9px;
 
 background: #000000;
+}
+.company-name {
+    position: absolute;
+width: 337px;
+height: 33px;
+left: 147px;
+top: 16px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 39px;
+
+color: #FFFFFF;
+
 }
