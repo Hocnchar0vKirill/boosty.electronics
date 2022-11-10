@@ -47,12 +47,20 @@ top: 9px;
 
 background: #000000;
 }
+.profile-button {
+width: 60px;
+height: 53px;
+left: 1378px;
+top: 9px;
+
+background: #000000;
+}
 .company-name {
     position: absolute;
 width: 337px;
 height: 33px;
 left: 147px;
-top: 16px;
+top: 1px;
 
 font-family: 'Inter';
 font-style: normal;
@@ -61,5 +69,76 @@ font-size: 32px;
 line-height: 39px;
 
 color: #FFFFFF;
+
+}
+.hero-content {
+    width: 20%;
+    border-right: 5px solid #000000;
+    height: 996px;
+}
+.product-block {
+    display: inline-block;
+    width: 80%;
+}
+.menu {
+width: 35px;
+height: 26px;
+left: 15px;
+top: 90px;
+}
+.menu-img {
+    position: absolute;
+    width: 35px;
+    height: 26px;
+    left: 15px;
+    top: 90px;
+}
+.iPhones {
+position: absolute;
+width: 196px;
+height: 49px;
+left: 7px;
+top: 134px;
+color: #000000;
+}
+.mac {
+position: absolute;
+width: 155px;
+height: 36px;
+left: 14px;
+top: 194px;
+color: #000000;
+}
+.iPad {
+position: absolute;
+width: 124px;
+height: 42px;
+left: 9px;
+top: 241px;
+color: #000000;
+}
+.accessories {
+position: absolute;
+width: 163px;
+height: 40px;
+left: 16px;
+top: 294px;
+color: rgb(0, 0, 0);
+}
+.popular-products {
+    position: absolute;
+width: 420px;
+height: 48px;
+left: 646px;
+top: 113px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 48px;
+
+color: #000000;
+
 
 }
