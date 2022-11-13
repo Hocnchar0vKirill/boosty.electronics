@@ -85,6 +85,7 @@ width: 172px;
 height: 245px;
 left: 19px;
 top: 104px;
+color: black;
 }
 li{
 list-style: none;
@@ -93,8 +94,7 @@ font-style: normal;
 font-weight: 400;
 font-size: 20px;
 line-height: 24px;
-color: #000000;
-
+color: black;
 }
 .popular-products {
     position: absolute;
@@ -113,7 +113,7 @@ color: #000000;
 
 
 }
-.product-item {
+.product-item-1 {
 position: absolute;
 width: 243px;
 height: 206px;
@@ -123,7 +123,7 @@ top: 226px;
 background: #1D1D1D;
 border-radius: 20px;
 }
-.product-img {
+.product-1-img {
 width: 134px;
 height: 157px;
 top: 240px;
@@ -146,6 +146,92 @@ margin-right: 25%;
     color: white;
     border-radius: 6px;
     border: none;
-    left: 93px;
-    top: 390px;
+    
+}
+.product-item-2 {
+position: absolute;
+width: 243px;
+height: 206px;
+left: 719px;
+top: 226px;
+
+background: #1D1D1D;
+border-radius: 20px;
+}
+.product-2-img {
+    width: 134px;
+    height: 157px;
+    top: 240px;
+    margin-left: 23%;
+    margin-right: 25%; 
+}
+.product-item-3 {
+    position: absolute;
+width: 243px;
+height: 206px;
+left: 1040px;
+top: 226px;
+
+background: #1D1D1D;
+border-radius: 20px;
+}
+.product-3-img {
+    width: 134px;
+    height: 157px;
+    top: 240px;
+    margin-left: 23%;
+    margin-right: 25%;    
+}
+.product-item-4 {
+    position: absolute;
+    width: 254px;
+    height: 206px;
+    left: 403px;
+    top: 514px;
+    
+
+background: #1D1D1D;
+border-radius: 20px;
+}
+.product-4-img {
+    width: 134px;
+    height: 157px;
+    top: 240px;
+    margin-left: 23%;
+    margin-right: 25%;    
+}
+.product-item-5 {
+    position: absolute;
+    width: 243px;
+    height: 206px;
+    left: 719px;
+    top: 514px;
+    
+
+background: #1D1D1D;
+border-radius: 20px;
+}
+.product-5-img {
+    width: 134px;
+    height: 157px;
+    top: 240px;
+    margin-left: 23%;
+    margin-right: 25%;    
+}
+.product-item-6 {
+    position: absolute;
+    width: 243px;
+    height: 206px;
+    left: 1040px;
+    top: 514px;
+    
+background: #1D1D1D;
+border-radius: 20px;
+}
+.product-6-img {
+    width: 134px;
+    height: 157px;
+    top: 240px;
+    margin-left: 23%;
+    margin-right: 25%;    
 }
