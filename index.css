@@ -159,14 +159,14 @@ margin-right: 25%;
     background-color: #2844c0;
     color: white;
     border-radius: 6px;
-    border: none;
-    
+    border: none;   
 }
 .buy-btn:hover {
     cursor: pointer;
     background-color: #c300ff;
     border-radius: 12px;
     border: none;
+    text-decoration: underline;
 }
 .product-item-2 {
 position: absolute;
