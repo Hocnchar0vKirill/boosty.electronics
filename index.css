@@ -132,6 +132,11 @@ align-self: auto;
 background: #1D1D1D;
 border-radius: 20px;
 }
+.product-item-1:hover {
+    width: 268px;
+    height: 216px;
+    cursor: pointer;
+}
 .product-1-img {
 width: 134px;
 height: 157px;
@@ -157,6 +162,10 @@ margin-right: 25%;
     border: none;
     
 }
+.buy-btn:hover {
+    cursor: pointer;
+    background-color: #c300ff;
+}
 .product-item-2 {
 position: absolute;
 width: 243px;
@@ -167,6 +176,11 @@ top: 226px;
 background: #1D1D1D;
 border-radius: 20px;
 align-self: auto;
+}
+.product-item-2:hover {
+    width: 268px;
+    height: 216px;
+    cursor: pointer;
 }
 .product-2-img {
     width: 134px;
@@ -185,6 +199,11 @@ top: 226px;
 background: #1D1D1D;
 border-radius: 20px;
 align-self: auto;
+}
+.product-item-3:hover {
+    width: 268px;
+    height: 216px;
+    cursor: pointer;
 }
 .product-3-img {
     width: 134px;
@@ -205,6 +224,11 @@ background: #1D1D1D;
 border-radius: 20px;
 align-self: auto;
 }
+.product-item-4:hover {
+    width: 268px;
+    height: 216px;
+    cursor: pointer;
+}
 .product-4-img {
     width: 134px;
     height: 157px;
@@ -224,6 +248,11 @@ background: #1D1D1D;
 border-radius: 20px;
 align-self: auto;
 }
+.product-item-5:hover{
+    width: 268px;
+    height: 216px;
+    cursor: pointer;
+}
 .product-5-img {
     width: 134px;
     height: 157px;
@@ -241,6 +270,11 @@ align-self: auto;
 background: #1D1D1D;
 border-radius: 20px;
 align-self: auto;
+}
+.product-item-6:hover {
+    width: 268px;
+    height: 216px;
+    cursor: pointer;
 }
 .product-6-img {
     width: 134px;
